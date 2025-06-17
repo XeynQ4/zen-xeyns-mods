@@ -2,16 +2,19 @@
     {
         "property": "xeyn.center-bookmarks",
         "label": "Center Bookmarks",
-        "type": "checkbox"
+        "type": "checkbox",
+        "defaultValue": true
     },
     {
         "property": "xeyn.use-catppuccin",
         "label": "Use Catppuccin Theme",
-        "type": "checkbox"
+        "type": "checkbox",
+        "defaultValue": true
     },
     {
         "property": "xeyn.workspace.hide-indicator",
         "label": "Hide Workspace Indicator",
-        "type": "checkbox"
+        "type": "checkbox",
+        "defaultValue": true
     }
 ]
