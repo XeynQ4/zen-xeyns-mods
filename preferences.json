@@ -1,0 +1,17 @@
+[
+    {
+        "property": "xeyn.center-bookmarks",
+        "label": "Center Bookmarks",
+        "type": "checkbox"
+    },
+    {
+        "property": "xeyn.use-catppuccin",
+        "label": "Use Catppuccin Theme",
+        "type": "checkbox"
+    },
+    {
+        "property": "xeyn.workspace.hide-indicator",
+        "label": "Hide Workspace Indicator",
+        "type": "checkbox"
+    }
+]
