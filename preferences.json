@@ -16,5 +16,25 @@
         "label": "Hide Workspace Indicator",
         "type": "checkbox",
         "defaultValue": true
+    },
+    {
+        "property": "browser.ml.chat.enabled",
+        "label": "Enable AI assistant",
+        "type": "checkbox"
+    },
+    {
+        "property": "browser.ml.chat.shortcuts",
+        "label": "Enable AI assistant shortcuts",
+        "type": "checkbox"
+    },
+    {
+        "property": "browser.ml.chat.shortcuts.custom",
+        "label": "Enable AI assistant custom shortcuts",
+        "type": "checkbox"
+    },
+    {
+        "property": "browser.ml.chat.sidebar",
+        "label": "Enable AI assistant sidebar",
+        "type": "checkbox"
     }
 ]
